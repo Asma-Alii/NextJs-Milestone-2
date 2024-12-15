@@ -98,12 +98,12 @@ export default function Home() {
           lg:text-[2.3vw]
           xl:text-[1.5vw]"
             >
-              "Hi, I'm Asma M.ali, a beginner Frontend Developer passionate
-              about learning and building websites. I’m currently honing my
+              Hi, I&apos;m Asma M.ali, a beginner Frontend Developer passionate
+              about learning and building websites. I&apos;m currently honing my
               skills in HTML, CSS, JavaScript, and React, and working on
-              personal projects to grow as a developer. I’m excited to explore
+              personal projects to grow as a developer. I&apos;m excited to explore
               opportunities that will help me apply my knowledge and continue
-              learning."
+              learning.
             </p>
           </div>
 
